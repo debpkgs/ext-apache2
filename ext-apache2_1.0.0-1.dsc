@@ -13,11 +13,11 @@ Build-Depends: debhelper-compat (= 13)
 Package-List:
  ext-apache2 deb admin optional arch=all
 Checksums-Sha1:
- 84f26c59115c14d76507f43b0a3de87254592aec 280 ext-apache2_1.0.0.orig.tar.xz
+ 339005b50a75a66f8cf6b19e27d59c005b711fcc 280 ext-apache2_1.0.0.orig.tar.xz
  ca30765947622a114fbfb8954af02e67b385834a 748 ext-apache2_1.0.0-1.debian.tar.xz
 Checksums-Sha256:
- 024e13d1765ba42c3ee309ce165388d97fbc2c742d8b8a206af21d386977b42a 280 ext-apache2_1.0.0.orig.tar.xz
+ 7b664887ef6854105c261ff44d9ba02d8a9486973c77362b9ab9d529f0a3fa22 280 ext-apache2_1.0.0.orig.tar.xz
  b73df9811770d75026e8368803ed2d55f99536fcd5413c62527186e314e00625 748 ext-apache2_1.0.0-1.debian.tar.xz
 Files:
- 2eef77a07779b992459822a95c53f497 280 ext-apache2_1.0.0.orig.tar.xz
+ 9bfb94e4a57fc386394fe3b74befa0db 280 ext-apache2_1.0.0.orig.tar.xz
  f76312ed4c7c7ee89e8ee6fd0c1ee7ad 748 ext-apache2_1.0.0-1.debian.tar.xz
